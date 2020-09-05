@@ -1,0 +1,3 @@
+{"appPort": 3000,
+"mongoUrl": "mongodb://localhost:27017/shopping_cart"
+}
